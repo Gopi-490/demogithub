@@ -17,6 +17,7 @@ public class gopi4 {
         else if((age1<17)&&(age2<20))
         {
             System.out.println("women are eligible for marriage");
+            //abcd
         }
     }
 }
